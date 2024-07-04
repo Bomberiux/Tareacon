@@ -1,4 +1,4 @@
 <?php 
-echo " hola mundo soy sebas asdasd  ";
+echo " hola mundo soy sebas  ";
 
 ?>
